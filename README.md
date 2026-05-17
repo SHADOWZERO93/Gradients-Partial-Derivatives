@@ -1,6 +1,5 @@
 # 🧠 ML Study Notes — Month 1
 
-> Documenting my machine learning journey from scratch — math, code, and intuition.
 
 ---
 
@@ -26,4 +25,4 @@
 **Tools**
 `Python` `NumPy` `Matplotlib` `SymPy` `Jupyter`
 
-📓 Kaggle: [Gradients & Partial Derivatives](https://www.kaggle.com)
+📓 Kaggle: https://www.kaggle.com/code/shadowsoumya/gradients-partial-derivatives
